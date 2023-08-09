@@ -59,7 +59,7 @@ O componente `Counter` é responsável por gerenciar a lógica do cronômetro de
 
 ## Design
 
-![Pomodoro Timer](./src/assets/home.png, "Pomodoro Timer")
-![Pomodoro Timer](./src/assets/historico.png, "Pomodoro Timer")
+![Pomodoro Timer](./home.png)
+![Pomodoro Timer](./historico.png)
 
 Para obter mais informações e detalhes sobre este projeto, consulte o código-fonte e os comentários nos arquivos fornecidos. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato!
